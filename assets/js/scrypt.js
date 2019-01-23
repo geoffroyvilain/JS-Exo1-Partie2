@@ -5,3 +5,4 @@ function change(object, ev)
    else
      object.src = object.src.replace(/image1_2(..+)$/, 'image1$1');
 }
+/*SI L IMAGE EST OVER ALORS ON MONTRE IMAGE 1 SINON IMAGE 2*/
